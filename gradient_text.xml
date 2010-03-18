@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:i18n="http://xml.rokejs.org/ns/i18n">
+
+<defs>
+<linearGradient id="orange_red" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" style="stop-color:rgb(0,255,150);
+stop-opacity:1"/>
+<stop offset="100%" style="stop-color:rgb(0,150,0);
+stop-opacity:1"/>
+</linearGradient>
+</defs>
+
+<rect x="20" y="20" width="600" height="80" style="fill:rgb(255,255,0); stroke:rgb(220,20,20); stroke-width:5;"/>
+
+<text x="30" y="80" font-size="60" font-family="Arial" font-weight="bolder" style="fill:url(#orange_red); stroke:rgb(0,50,0); stroke-width:2;" i18n:msgid="hworld">Hello World</text>
+
+
+</svg> 
