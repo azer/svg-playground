@@ -12,4 +12,8 @@
   <case name='Path Spiral' display='true' document='path_spiral.xml'></case>
   <case name='Filter - Gauissian Blur' display='true' document='filter_gauissian_blur.xml'></case>
   <case name='Gradient' display='true' document='gradient.xml'></case>
+  <case name='Gradient Text' display='true' document='gradient_text.xml'></case>
+  <case display='true'>
+    <file src="webkit.js" />
+  </case>
 </testcases>
